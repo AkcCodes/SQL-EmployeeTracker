@@ -65,11 +65,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 ## Installation Process
-1. Clone or download the zip.folder of the repository: [Thomas' SQL Employee Tracker](https://github.com/ThomasCalle/Thomas-SQL-Employee-Tracker)
+1. Clone or download the zip.folder of the repository: [Akc's SQL-EmployeeTracker](https://github.com/AkcCodes/SQL-EmployeeTracker)
 2. Install the following: 
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
 - MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
-- Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
 3. Open the repository in any source code editor.
 4. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2) to ensure the cloned documentation will operate.
 
