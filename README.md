@@ -72,7 +72,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Built With
 - Dynamic JavaScript 
-- Cfonts: [Cfonts 3.1.1](https://www.npmjs.com/package/cfonts)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
 - MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
 - Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
