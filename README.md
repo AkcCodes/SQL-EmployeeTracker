@@ -50,8 +50,6 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
-## GIF.
-### Figure 1. GIF Command line interface
 
 ## Usage Instructions
 1. Open the content management systems (CMS) named "Thomas & Friends SQL Employee Tracker".
@@ -86,40 +84,13 @@ THEN I am prompted to select an employee to update and their new role and this i
 2. Creating a lengthly content management systems (CMS). 
 3. Create direct and coherent walkthrough video that demonstrates the interfaces functionality and acceptance criteria + BONUS acceptance criteria.
 
-
-### Continued Development:
-1. Create 'History'feature that records the date of when employess are 'Added' and 'Removed'.
-2. Adjust file/folder sorting, create several child folders for server.js file to better organize and seperate additional inquirer features.
-
 ## License & Copyright ©
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
-
-### Copyright © 2024 AkcCodes
-```md
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
 ## Author
 
 Follow me on Github at [AkcCodes](https://github.com/AkcCodes)! Additional questions or concerns? feel free to contact me at ameerclark18@gmail.com.
 
-Until next, adios!
 
 © 2024 [AkcCodes](https://github.com/AkcCodes). Confidential and Proprietary. All Rights Reserved.
