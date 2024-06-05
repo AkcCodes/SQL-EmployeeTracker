@@ -12,10 +12,8 @@ Akc's SQL- Employee tracker. This project replicates a business's attempt at kee
 - [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
 - [What I Learned](#What-I-Learned)
-- [Continued Development](#Continued-Development)
 - [License](#License)
 - [Author](#Author)
-- [Acknowledgments](#Acknowledgments)
 
 # Overview
 
